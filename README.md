@@ -1,2 +1,2 @@
 # smart-contract
-Smart Contract
+Smart Contract test
